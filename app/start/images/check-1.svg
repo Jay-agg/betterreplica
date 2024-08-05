@@ -14,7 +14,7 @@
     <g
     id="icons-outlines"
     stroke="none"
-    stroke-width="1"
+    strokeWidth="1"
     fill="none"
     fill-rule="evenodd"
     stroke-linecap="round"
@@ -26,13 +26,13 @@
                         <polyline
               id="Line"
               stroke="#FFFFFF"
-              stroke-width="14"
+              strokeWidth="14"
               points="0.5 33.5 37.5 70.5 106 0.5"
             />
                         <polyline
               id="Line"
               stroke="#31766F"
-              stroke-width="7"
+              strokeWidth="7"
               points="0.5 33.5 37.5 70.5 106 0.5"
             />
                     </g>
