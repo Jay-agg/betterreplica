@@ -21,7 +21,7 @@ function Main() {
               </div>
               <nav class="m-auto flex max-w-screen-2xl justify-between p-5 md:py-5 md:px-10 xl:p-5">
                 <div class="flex flex-row">
-                  <div class="invisible -translate-x-full bg-interactiveForegroundInverseTertiary inset-0 overflow-auto overscroll-contain fixed z-10 p-6 shadow-md flex flex-col transition-translate duration-300 ease-[cubic-bezier(0.42,0,0.58,1)]">
+                  <div class="invisible -translate-x-full bg-interactiveForegroundInverseTertiary inset-0 overflow-auto overscroll-contain fixed z-10 p-6 shadow-md flex flex-col transition-translate duration-300 ease-[cubic-bezier(0\.42,0,0\.58,1)]">
                     <div class="flex justify-between items-center">
                       <a class="inline-block px-2 flex-none" href="/">
                         <svg
@@ -426,7 +426,7 @@ function Main() {
                   </div>
                   <button
                     aria-label="close navigation bar"
-                    class="bg-interactiveForegroundInversePrimary fixed inset-0 h-screen w-screen opacity-80 z-1 invisible focus:border transition-translate duration-300 ease-[cubic-bezier(0.42,0,0.58,1)]"
+                    class="bg-interactiveForegroundInversePrimary fixed inset-0 h-screen w-screen opacity-80 z-1 invisible focus:border transition-translate duration-300 ease-[cubic-bezier(0\.42,0,0\.58,1)]"
                   ></button>
                   <ul class="flex items-center">
                     <li class="mr-2">
