@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import "./css/home.css";
 import better_heloc from "./images/better-heloc.webp";
@@ -8,6 +9,7 @@ import one from "./images/one-day-mortgage.webp";
 import still from "./images/still-quote-Arian.webp";
 import Link from "next/link";
 import Image from "next/image";
+import Footer from "@/app/components/Footer";
 
 function Main() {
   return (
